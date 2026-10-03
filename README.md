@@ -53,6 +53,12 @@ It is converted into:
 - EUR billions
 - INR billions
 
+## Visualization
+
+The chart below shows the top 10 banks by market capitalization:
+
+![Top 10 Banks by Market Capitalization](top_10_banks_market_cap.png)
+
 ## Project Structure
 
 ```text
